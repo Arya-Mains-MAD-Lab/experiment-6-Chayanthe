@@ -1,1 +1,1 @@
- SQLite Database Application
+ SQLite Database Application for windows desktop
